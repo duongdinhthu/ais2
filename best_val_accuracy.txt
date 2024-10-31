@@ -1,0 +1,1 @@
+Best validation accuracy: 0.7046

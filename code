@@ -1,0 +1,13 @@
+myenv\Scripts\activate
+python -m venv myenv
+nvcc --version
+pip install opencv-python
+myenv\Scripts\activate
+python app_yolo.py
+pip freeze > requirements.txt
+  
+
+python cnn_training_s1.py
+  pip install git+https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer.git
+  python cnn_training_s2.py
+python app_yolo_gpt.py

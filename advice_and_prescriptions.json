@@ -1,0 +1,54 @@
+{
+  "Acne": {
+      "advice": "Gently wash your face twice a day with a mild cleanser. Avoid touching your face frequently and resist the urge to pick at pimples to prevent scarring.",
+      "prescription": "Benzoyl Peroxide 5% and Clindamycin 1% are common treatments for acne. However, consult a doctor before using these products, especially if you have sensitive skin or a history of allergies. Always patch test topical medications to avoid adverse reactions."
+  },
+  "Atopic Dermatitis": {
+      "advice": "Regularly moisturize your skin to prevent dryness and avoid known allergens or irritants. Wearing soft, breathable clothing can also help reduce flare-ups.",
+      "prescription": "Use ceramide-based moisturizers to strengthen the skin barrier and Hydrocortisone 1% during flare-ups. Consult a healthcare provider to ensure these treatments are safe for your skin type. If the condition worsens, seek medical advice for stronger treatments."
+  },
+  "Basal Cell Carcinoma": {
+      "advice": "Consult a dermatologist immediately if you notice any unusual growths or changes in the skin. Early detection and treatment are crucial for the best outcome.",
+      "prescription": "Topical treatments like Imiquimod or Fluorouracil may be prescribed, or surgical excision might be recommended. The choice of treatment depends on your individual medical history, so follow your doctor's instructions carefully."
+  },
+  "Benign Keratosis-like Lesions": {
+      "advice": "Monitor any changes in the appearance of these lesions. Protect your skin from excessive sun exposure by using sunscreen and wearing protective clothing.",
+      "prescription": "No treatment is usually necessary unless the lesions become irritated. If needed, cryotherapy (freezing) or surgical removal may be considered. Always consult a healthcare provider before opting for any procedure."
+  },
+  "Eczema": {
+      "advice": "Avoid harsh soaps and hot showers. Keep your skin moisturized, especially after bathing, to prevent dryness and reduce flare-ups.",
+      "prescription": "Topical steroids like Hydrocortisone 1% can help reduce inflammation during flare-ups. Use fragrance-free moisturizers to soothe the skin. Consult a healthcare provider to ensure the treatment is safe and appropriate for your condition."
+  },
+  "Melanocytic Nevi": {
+      "advice": "Monitor moles for any changes in size, shape, or color. If any changes occur, consult a dermatologist for further evaluation.",
+      "prescription": "No treatment is required for benign moles unless there are signs of abnormal growth. If there are concerns, seek medical advice for potential removal or biopsy."
+  },
+  "Melanoma": {
+      "advice": "Seek immediate medical attention if you notice any suspicious moles or skin lesions, as melanoma can be life-threatening if not treated promptly.",
+      "prescription": "Surgical excision is the primary treatment. In more advanced cases, chemotherapy, radiation, or immunotherapy may be needed. Treatment should be guided by a healthcare provider based on the stage and location of the melanoma."
+  },
+  "Normal": {
+      "advice": "Your skin appears healthy. Maintain a balanced skincare routine, use sunscreen regularly, and monitor for any changes in the future.",
+      "prescription": "No treatment is necessary. Continue with a healthy lifestyle and good skincare practices."
+  },
+  "Psoriasis pictures Lichen Planus and related diseases": {
+      "advice": "Keep your skin moisturized and avoid triggers that may cause flare-ups, such as stress, certain medications, or cold weather.",
+      "prescription": "Topical steroids and phototherapy (UVB light) are common treatments. Consult a dermatologist for more specialized care, especially if over-the-counter treatments are ineffective."
+  },
+  "Seborrheic Keratoses and other Benign Tumors": {
+      "advice": "No treatment is necessary unless the lesions cause discomfort or irritation. Monitor the skin for any significant changes.",
+      "prescription": "Cryotherapy (freezing) or removal may be considered if needed. Always consult a doctor before opting for any removal procedures."
+  },
+  "Tinea Ringworm Candidiasis and other Fungal Infections": {
+      "advice": "Keep the affected area clean and dry. Avoid tight clothing that can trap moisture, and practice good hygiene to prevent the spread of the infection.",
+      "prescription": "Topical antifungal creams like Clotrimazole or Miconazole are common treatments. If the infection is widespread or persistent, oral antifungal medications may be necessary. Always consult a healthcare provider before starting treatment."
+  },
+  "Vitiligo": {
+      "advice": "Use sunscreen regularly to protect depigmented skin from sunburn. Avoid excessive sun exposure and take care to prevent further damage to the skin.",
+      "prescription": "Topical corticosteroids or PUVA (psoralen and ultraviolet A) therapy may help restore pigmentation. Treatment options vary, so always consult a dermatologist for tailored advice."
+  },
+  "Warts Molluscum and other Viral Infections": {
+      "advice": "Avoid scratching or picking at warts or viral lesions, as this can spread the infection to other areas of the body.",
+      "prescription": "Cryotherapy (freezing) or topical treatments like Imiquimod can help boost the immune response and promote healing. Always consult a healthcare provider for proper diagnosis and treatment."
+  }
+}
